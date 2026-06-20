@@ -12,7 +12,7 @@ cd backend
 mvn spring-boot:run
 ```
 
-Backend runs on `http://localhost:8080` and exposes:
+Backend runs on `http://localhost:8080` and exposes,
 
 - `GET /api/greetings`
 
